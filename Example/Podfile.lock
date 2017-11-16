@@ -1,5 +1,7 @@
 PODS:
-  - TestLib (0.1.0)
+  - LPDSliderView (0.1.0)
+  - TestLib (0.1.0):
+    - LPDSliderView
 
 DEPENDENCIES:
   - TestLib (from `../`)
@@ -9,7 +11,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TestLib: 5949748bc45e76b3478ffe20298e24e5c0b3c708
+  LPDSliderView: 52c345bc9e072b0ae29b57a1d7d1346693f89710
+  TestLib: 3755c911685dbd8f9f79aff77b38848fd04d89ad
 
 PODFILE CHECKSUM: d898af9d21aadb22b2750f5dfaf282ff9437a2d6
 
